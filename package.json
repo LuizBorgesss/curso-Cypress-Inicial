@@ -1,0 +1,12 @@
+
+{
+  "devDependencies": {
+    "cypress": "^16.1.1"
+  },
+  "allowScripts": {
+    "cypress": true
+  },
+  "scripts": {
+    "cy:open": "cypress open"
+  }
+}
